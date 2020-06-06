@@ -1,0 +1,22 @@
+combustion-generator:Combustion generator
+thermal-generator:Thermal generator
+steam-generator:Steam generator
+rtg-generator:RTG generator
+solar-panel:Solar panel
+big-solar-panel:Big solar panel
+thorium-reactor:Thorium reactor
+impact-reactor:Impact reactor
+cryo-fluid:Cryofluid
+water:Water
+coal:Coal
+blast-compound:Blast compound
+spore-pod:Spore pod
+pyratite:Pyratite
+phase-fabric:Phase fabric
+thorium:Thorium
+solution:Solution
+solve:Calculate
+placeholder:Energy/second
+second:second
+ohno:OH NO! Something went wrong. Check if you have chosen the source and spelled the energy correctly.
+round:Round to hundredths

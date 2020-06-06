@@ -1,0 +1,13 @@
+{
+  "power":
+  {
+    "combustion-generator": {"power":  60, "resources": ["coal", "spore-pod", "blast-compound", "pyratite"], "resources-time": 2},
+    "thermal-generator": {"power": 103},
+    "steam-generator": {"power": 360, "resources": ["coal", "spore-pod", "blast-compound", "pyratite"], "resources-time": 1.5, "liquid": ["water", 3]},
+    "rtg-generator": {"power": 180, "resources": ["thorium", "phase-fabric"], "resources-time": 7.33},
+    "solar-panel": {"power": 3.6},
+    "big-solar-panel": {"power": 36},
+    "thorium-reactor": {"power": 840, "resources": ["thorium"], "resources-time": 6, "liquid": ["cryo-fluid", 2.4]},
+    "impact-reactor": {"power": 7800, "resources": ["blast-compound"], "resources-time": 2.33, "liquid": ["cryo-fluid", 15]}
+  }
+}

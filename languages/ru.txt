@@ -1,0 +1,22 @@
+combustion-generator:Генератор внутреннего сгорания
+thermal-generator:Термальный генератор
+steam-generator:Паровой генератор
+rtg-generator:РТГ генератор
+solar-panel:Солнечная панель
+big-solar-panel:Большая солнечная панель
+thorium-reactor:Ториевый реактор
+impact-reactor:Импульсный реактор
+cryo-fluid:Криогенная жидкость
+water:Вода
+coal:Уголь
+blast-compound:Взрывчатая смесь
+spore-pod:Spore pod
+pyratite:Пиротит
+phase-fabric:Фазовая ткань
+thorium:Торий
+solution:Решение
+solve:Рассичать
+placeholder:Энергии/секунду
+second:секунду
+ohno:OH NO! Что-то пошло не так. Проверьте, выбрали ли вы источик и правильно ли написали энергию.
+round:Округлить до сотых
